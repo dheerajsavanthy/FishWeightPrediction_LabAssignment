@@ -30,7 +30,7 @@ To install the project, please download or clone properly using repository url. 
 
 ### Cloud Deployment
 
-For deployment of the application, [Heroku](https://www.heroku.com/) Cloud Platform has been chosen. Once the project has been saved onto a GitHub repository, it can be directly deployed from the repository onto the Heroku Cloud by linking the GitHub account to your Heroku Account. 
+For deployment of the application, [Heroku](https://www.heroku.com/) Cloud Platform has been chosen. Once the project has been saved onto a GitHub repository, it can be directly deployed from the repository onto the Heroku Cloud by linking the GitHub account to your Heroku Account. The deployment info is documented in the Screenshots file.
 
 ## Live Application Link
 
