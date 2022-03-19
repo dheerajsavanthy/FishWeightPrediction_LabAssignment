@@ -34,7 +34,7 @@ For deployment of the application, [Heroku](https://www.heroku.com/) Cloud Platf
 
 ## Live Application Link
 
-The application is live at - 
+The application is live at - https://fishweight.herokuapp.com/
 
 ### Author
 
