@@ -16,3 +16,26 @@ The model used for prediction is a simple Linear Regression and the data has bee
 An IDE to program - Jupyter Notebook or Visual Studio
 
 To manage the project or attain access, get *Git Bash*
+
+*Heroku* is a cloud platform as a service supporting several programming languages. One of the first cloud platforms, Heroku has been in development since June 2007 which now supports Java, Node.js, Scala, Clojure, Python, PHP, and Go. An account on the platform is required in order to deploy the application.
+
+### Project Installation
+
+To install the project, please download or clone properly using repository url. All necessary tools and libraries are already provided within installation. To clone the repository using Git Bash follow below steps:
+
+1) Open GitHub and go to the GitHub repository that you want to clone.
+2) Click “Code” and copy the given URL.
+3) Open Git Bash and change to the location where you want the cloned directory.
+4) Type 'git clone' in the terminal and paste the URL you copied, press “Enter” to create your local clone.
+
+### Cloud Deployment
+
+For deployment of the application, [Heroku](https://www.heroku.com/) Cloud Platform has been chosen. Once the project has been saved onto a GitHub repository, it can be directly deployed from the repository onto the Heroku Cloud by linking the GitHub account to your Heroku Account. 
+
+## Live Application Link
+
+The application is live at - 
+
+### Author
+
+Dheeraj Savanthy
